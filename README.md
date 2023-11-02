@@ -42,3 +42,7 @@ bash <(wget -qO- https://gitlab.com/rwkgyg/sing-box-yg/raw/main/sb.sh 2> /dev/nu
 ---------------------------------------
 
 ### 鸣谢：[Sing-box官方](https://github.com/SagerNet/sing-box)、Github所有sing-box项目、Chatgpt
+
+
+
+singbox.sh是备份文件
